@@ -1,2 +1,6 @@
 Line 1: Hello
+<<<<<<< Updated upstream
 Line 2: Feature edit
+=======
+Line 3: Good morning
+>>>>>>> Stashed changes
